@@ -1,0 +1,21 @@
+.container{
+    width: 500px;
+    height: 500px;
+    display: grid;
+    margin: 0 auto;
+}
+
+.btn{
+    background-color: blue;
+    padding: 20px 30px;
+    margin: 20px;
+    font-size: large;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    height: 100vh;
+}
